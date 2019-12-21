@@ -1,4 +1,4 @@
-# CNN model for 攻撃自動検知ワークショップ in SECCON 2019 
+# ML Model for 攻撃自動検知ワークショップ in SECCON 2019 
 
 https://connpass.com/event/159753/  
 seccon_ws_detection  
