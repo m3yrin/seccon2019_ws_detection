@@ -5,6 +5,9 @@ seccon_ws_detection
 
 auther : ＠m3yrin  
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/m3yrin/seccon2019_ws_detection/blob/master/seccon_ws_detection_m3yrin.ipynb)
+
+
 ## Model Specification
 * Char-Base sequence modeling
 
